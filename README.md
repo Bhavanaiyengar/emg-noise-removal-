@@ -12,3 +12,8 @@ This project demonstrates how to remove **power-line interference (50/60 Hz)** f
 - 🧠 Calculate Root Mean Square (RMS) of cleaned signal
 
 ---
+## 🚀 Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W0BzG15vCNdAZMyR2tmexvwICY6hT3v8#scrollTo=CGjK22087yQY)
+
+You can explore and run the EMG Noise Removal notebook in Colab by clicking the badge above or [this direct link](https://colab.research.google.com/drive/1W0BzG15vCNdAZMyR2tmexvwICY6hT3v8#scrollTo=CGjK22087yQY).
